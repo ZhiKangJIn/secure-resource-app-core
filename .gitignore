@@ -1,0 +1,9 @@
+private-docs/
+build/
+*.o
+*.obj
+*.a
+*.lib
+*.exe
+*.gcda
+*.gcno
